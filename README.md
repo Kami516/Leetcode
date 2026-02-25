@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/Kami516/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/Kami516/Leetcode/tree/master/1907-count-salary-categories) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Kami516/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Kami516/Leetcode/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Kami516/Leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
